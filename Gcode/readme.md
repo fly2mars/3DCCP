@@ -1,0 +1,3 @@
+1. The G-code files are named following the pattern "material + type + size + compaction distance";
+2. The materials include tP (Tianrui's PLA), eP (eSUN's PLA), K (Kevlar), and PETG/ASA (two types of thermoplastic matrix materials). For example, 220x19.5x1.5 represents the sample length x width x height, w0.49 indicates the deposition spacing, and -0.04 means a compaction of 0.04 mm.
+3. The G-code in this file is the standard printing G-code. Another file for G-code modification and generation contains various iterative versions of the G-code.
